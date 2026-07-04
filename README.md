@@ -27,6 +27,15 @@
 By utilizing vectorized operations through standard NumPy internal structures, this dashboard serves as an excellent reference model for structured arithmetic evaluation, structural alignment safeguarding, and zero-division exception handling.
 
 ---
+### Project Screen-Shot
+
+<img width="1920" height="1044" alt="Screenshot 2026-07-04 172901" src="https://github.com/user-attachments/assets/57ca3e2b-255f-484c-b774-57389fe162fc" />
+
+<img width="1920" height="1041" alt="Screenshot 2026-07-04 172923" src="https://github.com/user-attachments/assets/3913d1e2-eb3b-4807-9bf2-780811e4de83" />
+
+<img width="1919" height="715" alt="Screenshot 2026-07-04 172943" src="https://github.com/user-attachments/assets/4bcb9ee6-4714-425c-b91c-5557a1d6688b" />
+
+
 
 ## 🏗️ System Pipeline Architecture
 
@@ -106,7 +115,7 @@ python pr_8_analyzer.py
 
 ⭐ If you find this Object-Oriented NumPy architecture design useful, consider giving this repository a star!
 
-<img width="1920" height="1044" alt="Screenshot 2026-07-04 172901" src="https://github.com/user-attachments/assets/2d0fedb8-a178-4781-a719-68c0593eb693" />
+
 
 
 
