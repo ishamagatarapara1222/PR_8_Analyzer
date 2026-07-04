@@ -106,11 +106,8 @@ python pr_8_analyzer.py
 
 ⭐ If you find this Object-Oriented NumPy architecture design useful, consider giving this repository a star!
 
-<img width="1920" height="1044" alt="Screenshot 2026-07-04 172901" src="https://github.com/user-attachments/assets/75576eb3-fc05-4679-b6f5-1f368848fe49" />
+<img width="1920" height="1044" alt="Screenshot 2026-07-04 172901" src="https://github.com/user-attachments/assets/2d0fedb8-a178-4781-a719-68c0593eb693" />
 
-<img width="1920" height="1041" alt="Screenshot 2026-07-04 172923" src="https://github.com/user-attachments/assets/f64afcd4-89bd-49ab-8b6a-5a89bf888ac5" />
-
-<img width="1919" height="715" alt="Screenshot 2026-07-04 172943" src="https://github.com/user-attachments/assets/d7db34d4-5120-4ea9-9a82-7c93a40a8762" />
 
 
 
